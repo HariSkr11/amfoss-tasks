@@ -18,3 +18,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/HariSkr11/amfoss-tasks.git
 git push -u origin main
+
+Screenshot
+
+![Screenshot from 2022-11-30 12-36-48](https://user-images.githubusercontent.com/98250904/210137269-4773da9d-1e03-4a30-a053-24e9025a7e3d.png)
