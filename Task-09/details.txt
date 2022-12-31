@@ -1,0 +1,9 @@
+<p class="chakra-text css-rkws3" style="-webkit-hyphens:auto">Bitcoin</p>
+
+<p class="chakra-text css-dg4gux" title="-0.23%" style="word-wrap:normal">-0.23%</p>
+
+<td role="gridcell" class="css-1b7j986"><p class="chakra-text css-dg4gux" title="-0.23%" style="word-wrap:normal">-0.23%</p></td>
+
+<td role="gridcell" class="css-1nh9lk8">$18.21 B</td>
+
+<td role="gridcell" class="css-1nh9lk8">$147.9 B</td>

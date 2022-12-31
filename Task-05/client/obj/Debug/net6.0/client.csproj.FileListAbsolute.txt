@@ -1,0 +1,34 @@
+/home/hari/debugger/client/bin/Debug/net6.0/client
+/home/hari/debugger/client/bin/Debug/net6.0/client.deps.json
+/home/hari/debugger/client/bin/Debug/net6.0/client.runtimeconfig.json
+/home/hari/debugger/client/bin/Debug/net6.0/client.dll
+/home/hari/debugger/client/bin/Debug/net6.0/ref/client.dll
+/home/hari/debugger/client/bin/Debug/net6.0/client.pdb
+/home/hari/debugger/client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/hari/debugger/client/obj/Debug/net6.0/client.csproj.AssemblyReference.cache
+/home/hari/debugger/client/obj/Debug/net6.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/home/hari/debugger/client/obj/Debug/net6.0/client.AssemblyInfoInputs.cache
+/home/hari/debugger/client/obj/Debug/net6.0/client.AssemblyInfo.cs
+/home/hari/debugger/client/obj/Debug/net6.0/client.csproj.CoreCompileInputs.cache
+/home/hari/debugger/client/obj/Debug/net6.0/client.csproj.CopyComplete
+/home/hari/debugger/client/obj/Debug/net6.0/client.dll
+/home/hari/debugger/client/obj/Debug/net6.0/ref/client.dll
+/home/hari/debugger/client/obj/Debug/net6.0/client.pdb
+/home/hari/debugger/client/obj/Debug/net6.0/client.genruntimeconfig.cache
+/media/hari/My Passport/AMFOSS/Task 05/client/bin/Debug/net6.0/client
+/media/hari/My Passport/AMFOSS/Task 05/client/bin/Debug/net6.0/client.deps.json
+/media/hari/My Passport/AMFOSS/Task 05/client/bin/Debug/net6.0/client.runtimeconfig.json
+/media/hari/My Passport/AMFOSS/Task 05/client/bin/Debug/net6.0/client.dll
+/media/hari/My Passport/AMFOSS/Task 05/client/bin/Debug/net6.0/ref/client.dll
+/media/hari/My Passport/AMFOSS/Task 05/client/bin/Debug/net6.0/client.pdb
+/media/hari/My Passport/AMFOSS/Task 05/client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.csproj.AssemblyReference.cache
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.AssemblyInfoInputs.cache
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.AssemblyInfo.cs
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.csproj.CoreCompileInputs.cache
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.csproj.CopyComplete
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.dll
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/ref/client.dll
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.pdb
+/media/hari/My Passport/AMFOSS/Task 05/client/obj/Debug/net6.0/client.genruntimeconfig.cache
